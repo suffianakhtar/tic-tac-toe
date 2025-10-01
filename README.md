@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe (React + Vite)
 
-A fun and interactive **Tic-Tac-Toe** game built with **React 19** and **Vite 7**.  
+A fun and interactive **Tic-Tac-Toe** game built with **React** and **Vite**.  
 This project demonstrates **state management**, **component-based architecture**, and **React hooks** while keeping the UI simple, engaging, and responsive.
 
 ---
